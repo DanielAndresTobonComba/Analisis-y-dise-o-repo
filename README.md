@@ -1,1 +1,1 @@
-# Analisis-y-dise-o-repo
+# Analisis-y-diseño-repo
