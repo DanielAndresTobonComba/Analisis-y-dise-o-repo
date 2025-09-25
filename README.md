@@ -16,3 +16,22 @@ En consecuencia, la ausencia de una herramienta tecnológica integral genera:
 - **Menor satisfacción** de los clientes, al no contar con una experiencia digital moderna y eficiente.  
 
 Por lo tanto, se requiere una solución tecnológica que modernice y digitalice el proceso de ventas, mejorando la autonomía de los clientes y optimizando la gestión del distribuidor. La implementación de una aplicación web permitirá superar las limitaciones actuales, aportando **eficiencia, trazabilidad y accesibilidad** a los procesos de compra y facturación.
+
+# Contextualización de la necesidad
+
+El distribuidor y micro aliado de **Alquería** requiere modernizar y optimizar su proceso de ventas, el cual actualmente depende en gran medida de interacciones presenciales y procedimientos manuales. Esta situación genera retrasos, mayores costos operativos y una experiencia limitada para los clientes, quienes deben esperar la gestión directa del distribuidor para realizar cotizaciones o compras.
+
+La creciente demanda de soluciones digitales por parte de los consumidores, sumada a la necesidad del distribuidor de mejorar la eficiencia en su operación, hace indispensable la implementación de una **aplicación web** que permita a los clientes visualizar el catálogo de productos, generar cotizaciones y realizar compras en línea de manera autónoma, rápida y sencilla.
+
+Desde la perspectiva del negocio, la digitalización permitirá:
+
+- **Automatizar procesos de ventas.**  
+- **Optimizar la gestión de pedidos.**  
+- **Reducir la necesidad de desplazamientos.**  
+- **Incrementar la productividad del distribuidor.**  
+- **Fortalecer la relación con los clientes.**  
+
+Por su parte, los clientes tendrán acceso a un **canal digital confiable, flexible y accesible** en cualquier momento y desde cualquier dispositivo.
+
+En este contexto, la necesidad principal es disponer de una **plataforma tecnológica** que garantice eficiencia operativa, facilite la autogestión por parte de los clientes y se alinee con la **identidad de marca** y los **objetivos estratégicos de Alquería**.
+
