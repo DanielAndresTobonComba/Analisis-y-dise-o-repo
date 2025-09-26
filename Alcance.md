@@ -42,7 +42,7 @@ s
 - **Tiempo:** la primera versión de la aplicación debe entregarse en un plazo acordado con el cliente.  
 - **Presupuesto:** limitado a las funcionalidades definidas como prioritarias.  
 - **Tecnología:** solución desarrollada como aplicación web responsiva.  
-- **Usuarios:** orientado a clientes y distribuidor, sin contemplar perfiles administrativos avanzados en esta etapa.  
+- **Usuarios:** orientado a clientes y distribuidor, sin contemplar perfiles administrativos avanzados.  
 
 ---
 
@@ -50,11 +50,10 @@ s
 
 - El sistema debe permitir registro, inicio y cierre de sesión de manera correcta.  
 - El catálogo de productos debe estar disponible y navegable en cualquier dispositivo.  
-- Los clientes deben poder generar cotizaciones y facturas descargables en PDF.  
-- El flujo de compras debe incluir carrito de compras y confirmación del pedido vía correo electrónico.  
+- Los clientes deben poder generar cotizaciones y facturas..  
+- El flujo de compras debe incluir carrito de compras y confirmación del pedido.  
 - El diseño debe adaptarse adecuadamente a desktop, tablet y móvil.  
-- El formulario de contacto debe enviar consultas de manera exitosa.  
-- La sección institucional debe mostrar visión, misión, reseñas, aliados y clientes.  
+- El formulario de contacto debe enviar la información de manera exitosa.  
 
 ---
 
@@ -76,6 +75,7 @@ La solución debe priorizar:
 1. Autonomía y autogestión para los clientes.  
 2. Optimización de los procesos del distribuidor.  
 3. Una experiencia digital clara, rápida y accesible.  
+
 
 
 
