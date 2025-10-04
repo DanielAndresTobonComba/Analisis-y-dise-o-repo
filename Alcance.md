@@ -90,6 +90,36 @@ Se aplicó la fase **Empatizar – Definir** del Design Thinking, utilizando un 
 | **Dice y hace**    | Necesito digitalizar mis ventas para crecer. <br>Quiero reducir costos y errores.    | Busca rapidez y autonomía. <br>Quiere explorar catálogo y comprar online.      |
 
 ---
+## Sustento metodológico – Design Thinking (Empatizar y Definir)
+
+### Empatizar
+
+Durante esta fase se analizaron las necesidades, motivaciones y frustraciones de los principales actores involucrados en el proyecto: **el distribuidor (micro aliado de Alquería)** y los **clientes finales**.
+
+El propósito fue comprender de manera profunda sus puntos de vista para orientar el diseño del producto hacia una solución que responda a sus expectativas reales.  
+A partir de esta etapa, se identificaron los siguientes hallazgos clave:
+
+- Los clientes sienten **frustración** por depender del distribuidor para cotizar o realizar pedidos.  
+- El distribuidor **percibe altos costos operativos** y pérdida de tiempo por los procesos manuales.  
+- Ambos actores **reconocen la necesidad de una plataforma digital**, pero temen la complejidad del cambio tecnológico.  
+- El distribuidor **busca eficiencia**, mientras que los clientes **desean autonomía**.  
+
+Esta información permitió definir los principales **problemas y oportunidades**, que sirvieron como base para delimitar el alcance inicial de la aplicación.
+
+---
+
+### Definir
+
+Con base en la información obtenida en la fase de empatía, se procedió a estructurar el **alcance del proyecto** de forma realista y alineada con las necesidades detectadas.
+
+El equipo determinó qué funcionalidades son **prioritarias** para responder al problema actual del distribuidor y ofrecer valor inmediato a los clientes.  
+A partir de este análisis se estableció la siguiente estrategia de alcance:
+
+- **Primera versión (MVP):** incluir funcionalidades básicas que habiliten la digitalización inicial (registro, inicio/cierre de sesión, catálogo, cotización y diseño responsivo).  
+- **Exclusión del alcance inicial:** funcionalidades complejas o de integración externa (pasarelas de pago, reportes de ventas e inventarios).  
+- **Justificación:** priorizar la rapidez en la entrega del producto mínimo viable, garantizando una adopción gradual y reduciendo riesgos técnicos y de resistencia al cambio.  
+
+---
 
 ### Definición del Problema
 
