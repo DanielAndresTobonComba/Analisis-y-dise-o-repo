@@ -89,6 +89,13 @@ Se aplicó la fase **Empatizar – Definir** del Design Thinking, utilizando un 
 | **Oye**            | Reclamos constantes de clientes por demoras.                                         | Que siempre debe esperar para cotizar o comprar.                              |
 | **Dice y hace**    | Necesito digitalizar mis ventas para crecer. <br>Quiero reducir costos y errores.    | Busca rapidez y autonomía. <br>Quiere explorar catálogo y comprar online.      |
 
+## Sustento Metodológico – Design Thinking: Mapa de Empatía  
+
+Se aplicó la fase **Empatizar – Definir** de la metodología **Design Thinking** con el fin de comprender profundamente las necesidades, emociones y expectativas de los usuarios principales del proyecto **Campus Conecta**.  
+El uso del **Mapa de Empatía** permitió analizar la realidad de los **estudiantes universitarios** y de la **comunidad académica interuniversitaria**, facilitando la identificación de los problemas clave y orientando las decisiones de diseño del prototipo web.  
+
+Esta herramienta ayudó a transformar percepciones abstractas en información accionable, permitiendo definir con claridad **qué piensa, siente, ve, dice y hace** cada actor, asegurando que la propuesta responda a sus verdaderas motivaciones y frustraciones.  
+
 
 - **Primera versión (MVP):** incluir funcionalidades básicas que habiliten la digitalización inicial (registro, inicio/cierre de sesión, catálogo, cotización y diseño responsivo).  
 - **Exclusión del alcance inicial:** funcionalidades complejas o de integración externa (pasarelas de pago, reportes de ventas e inventarios).  
